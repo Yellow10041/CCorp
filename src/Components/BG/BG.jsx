@@ -16,8 +16,7 @@ function BG() {
       <div className="BG_ring_11"></div>
       <div className="BG_ring_12"></div>
 
-
-      <svg className="BG_ring_sys" width="1293" height="1834" viewBox="0 0 1293 1834" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg  className="BG_ring_sys" width="2500" height="1834" viewBox="0 0 1293 1834" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g opacity="0.3">
 <circle cx="916.5" cy="916.5" r="235.816" stroke="url(#paint0_linear_2_85)" stroke-opacity="0.7" stroke-width="1.4"/>
 <circle cx="916.5" cy="916.5" r="429.6" stroke="url(#paint1_linear_2_85)" stroke-opacity="0.7" stroke-width="1.4"/>

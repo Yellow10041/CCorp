@@ -121,7 +121,7 @@ function Technologies() {
                 </div>
               </div>
             </div>
-            <div className="Technologies_info_button">Start Now</div>
+            <button className="Technologies_info_button">Start Now</button>
           </div>
         </div>
     </div>

@@ -69,10 +69,14 @@
     background-size: 400% 400%;
     box-shadow: 0px 0px 49px rgba(42, 7, 254, 0.4);
     border-radius: 10px;
+
+    animation: HeadScreen_button 5s ease-in-out infinite;
+
+    transition: all .1s linear;
 }
 
 .HeadScreen_button:hover {
-    animation: HeadScreen_button 3s ease-in-out infinite;
+    opacity: .7;
 }
 
 @keyframes HeadScreen_button {
@@ -93,6 +97,12 @@
     
     margin-left: 35px;
     
+}
+
+@media (max-width: 1440px) {
+    .HeadScreen_img_container {
+        width: 400px;
+    }
 }
 
 @media (max-width: 1200px) {
