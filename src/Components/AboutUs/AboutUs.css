@@ -1,0 +1,13 @@
+.AboutUs {
+    padding-top: 140px;
+    position: relative;
+    z-index: 100;
+}
+
+.AboutUs_title {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #aaaaaa;
+}

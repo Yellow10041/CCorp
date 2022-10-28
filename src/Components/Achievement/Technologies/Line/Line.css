@@ -1,0 +1,11 @@
+.Technologies_graphics_lines_item {
+    margin: 25px 0;
+    height: 20px;
+    width: 20%;
+    border-radius: 15px;
+    background: #2b42bfcc;
+}
+
+.Technologies_graphics_lines_item + .Technologies_graphics_lines_item {
+    margin-top: 45px;
+}

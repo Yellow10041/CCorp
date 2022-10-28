@@ -1,0 +1,19 @@
+.App {
+  overflow: hidden;
+  background-color: #000;
+}
+
+.App_container {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1440px;
+  width: 100%;
+  z-index: 10;
+}
+
+.App_bg {
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: -1;
+}
