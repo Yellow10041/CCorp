@@ -28,7 +28,7 @@
 .HeadScreen_title_style {
     color: transparent;
     background-clip: text;
-    background-image: linear-gradient(89.95deg, #487FFF -1.65%, #73B5FF 87.06%, #886ef1 99.96%);
+    background-image: linear-gradient(89.95deg,#487fff -1.65%,#73b5ff 27.06%,#886ef1 89.96%);
 }
 
 .HeadScreen_des {
