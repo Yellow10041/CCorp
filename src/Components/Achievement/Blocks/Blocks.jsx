@@ -45,8 +45,8 @@ function Blocks() {
       </div>
       <div className=" Blocks_item_4" data-aos="fade-up-left" data-aos-duration="1000" data-aos-easing="ease-in-out">
         <div className="Blocks_item  Blocks_item-4">
-          <div className="Blocks_item_info">
           <div className='Blocks_item_2_img' />
+          <div className="Blocks_item_info">
           <div className="Blocks_item_subtitle">mobile app</div>
           <div className="Blocks_item_title Blocks_item_title_small">
             Trade anytime,<br />

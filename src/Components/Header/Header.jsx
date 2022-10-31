@@ -6,10 +6,10 @@ function Header() {
         <div className="Header_logo">C</div>
         <div className="Header_nav">
             <nav className='Header_nav_items'>
-                <button className="Header_nav_item">Activities</button>
-                <button className="Header_nav_item">Technology</button>
-                <button className="Header_nav_item">R&D</button>
-                <button className="Header_nav_item">Community</button>
+                <a className="Header_nav_item" href='#'>Activities</a>
+                <a className="Header_nav_item" href='#'>Technology</a>
+                <a className="Header_nav_item" href='#'>R&D</a>
+                <a className="Header_nav_item" href='#'>Community</a>
             </nav>
             <button className="Header_nav_button">
                 Career

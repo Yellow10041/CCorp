@@ -83,7 +83,7 @@ function Platform() {
           The future <span className='Platform_info_title_style-gray'>of</span> Cryptocurrency trading <span className='Platform_info_title_style-fade'>platform</span>
         </div>
         <div className="Platform_info_des" data-aos="fade-up-left" data-aos-duration="1000" data-aos-easing="ease-in-out">Take advantage of time and sales, futures spread orders and depth trader — plus, trade directly from charts.</div>
-        <a href='#' className="Platform_info_link" data-aos="fade-up-left" data-aos-duration="1000" data-aos-easing="ease-in-out">Learn more</a>
+        <div className="Platform_info_link_container" data-aos="fade-up-left" data-aos-duration="1000" data-aos-easing="ease-in-out"><a className="Platform_info_link" href='#'  >Learn more</a></div>
       </div>
     </div>
   );

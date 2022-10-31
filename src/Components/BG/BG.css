@@ -151,3 +151,10 @@ filter: blur(275px);
   filter: blur(100px);
   transform: rotate(157.5deg);
 }
+
+.BG_ring_sys {
+  position: absolute;
+left: -466px;
+top: 814px;
+z-index: 0;
+}

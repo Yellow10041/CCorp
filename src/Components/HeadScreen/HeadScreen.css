@@ -70,6 +70,8 @@
     box-shadow: 0px 0px 49px rgba(42, 7, 254, 0.4);
     border-radius: 10px;
 
+    cursor: pointer;
+
     animation: HeadScreen_button 5s ease-in-out infinite;
 
     transition: all .1s linear;
@@ -133,7 +135,7 @@
 
 @media (max-width: 768px) {
     .HeadScreen {
-        padding: 55px 30px 400px;
+        padding: 55px 25px 400px;
     }
 
     .HeadScreen_subtitle {
@@ -159,5 +161,9 @@
         margin: 0 auto;
     }
 
-    
+    .HeadScreen_img_container {
+        width: 377px;
+        top: 165%;
+        right: -117px;
+    }
 }

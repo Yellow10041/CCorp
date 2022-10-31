@@ -50,6 +50,8 @@
     background: linear-gradient(140.6deg, #FFFFFF -27.18%, #DEDEDE 126.06%);
     box-shadow: 0px 0px 49px rgba(42, 7, 254, 0.4);
 
+    cursor: pointer;
+
     transition: all .1s linear;
 }
 
@@ -120,6 +122,10 @@
 @media (max-width : 1024px) {
     .Header {
         padding: 22px 45px 0;
+    }
+
+    .Header_nav_item + .Header_nav_item {
+        margin-left: 20px;
     }
 }
 
